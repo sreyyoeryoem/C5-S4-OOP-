@@ -6,4 +6,5 @@ export abstract class Vehicle {
 		this.weight = weight;
 
 	}
+	abstract getSpeed():number 
 }
